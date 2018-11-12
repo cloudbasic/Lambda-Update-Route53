@@ -1,0 +1,4 @@
+{
+  "name": "the_CNAME_in_Route53",
+  "value": "the_new_RDS_EndPoint"
+}
